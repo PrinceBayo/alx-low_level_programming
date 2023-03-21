@@ -2,7 +2,7 @@
 
 /**
 * main - A c file to display the sizes of built in data types in c
-* Return - 0 (signifying program success)
+* Return - 0 (success)
 */
 
 int main(void)
